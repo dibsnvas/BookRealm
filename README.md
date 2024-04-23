@@ -1,21 +1,22 @@
-## About this Project
-BookRealm is a website that provides users with the opportunity to discover, read, rate, and review books. It leverages the Google Books API to access a vast collection of books, offering real-time information on new releases and popular titles. The website is designed to facilitate user engagement with books, allowing them to explore, rate, and share their thoughts through reviews.
+# BookRealm
 
-##Features
-# User Authentication: Users can sign up, log in, and log out securely to access the platform.
-# Book Search: Users can search for books using keywords, titles, authors, or categories.
-# Book Details: Detailed information about each book, including title, author, publisher, publication date, description, and cover image.
-# User Reviews: Users can read and write reviews for books, as well as rate them based on their experience.
-# Google Books Integration: BookRealm is integrated with the Google Books API to fetch real-time information about books.
+## About
+BookRealm is a web application that allows users to explore, review, and interact with books. It provides features such as user authentication, book search, detailed book information, and user reviews.
 
-## Built With
-# Frontend:
-React.js: A JavaScript library for building user interfaces.
-Firebase Authentication: For user authentication and management.
-Google Books API: Provides access to a vast collection of books and metadata.
-# Backend:
-Express.js: A web application framework for Node.js.
-MongoDB: A NoSQL database for storing user reviews and book information.
+## Features
+- **User Authentication**: Users can sign up, log in, and log out securely to access the platform.
+- **Book Search**: Users can search for books using keywords, titles, authors, or categories.
+- **Book Details**: Detailed information about each book, including title, author, publisher, publication date, description, and cover image.
+- **User Reviews**: Users can read and write reviews for books, as well as rate them based on their experience.
+- **Google Books Integration**: BookRealm is integrated with the Google Books API to fetch real-time information about books.
+
+## Technologies Used
+- **Frontend**: React.js, React Router, Axios
+- **Backend**: Node.js, Express.js, MongoDB
+- **Authentication**: Firebase Authentication
+- **Styling**: Tailwind CSS
+- **API Integration**: Google Books API
+
 
 # Getting Started with Create React App
 
