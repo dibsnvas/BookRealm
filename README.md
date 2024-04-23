@@ -1,11 +1,12 @@
 ## About this Project
 BookRealm is a website that provides users with the opportunity to discover, read, rate, and review books. It leverages the Google Books API to access a vast collection of books, offering real-time information on new releases and popular titles. The website is designed to facilitate user engagement with books, allowing them to explore, rate, and share their thoughts through reviews.
 
-## Features
-Book Discovery: Users can search for books by title, author, genre, or keyword, enabling them to discover new titles and explore different genres.
-Book Details: Detailed information about each book, including title, author, publisher, publication date, description, and cover image, is provided to users.
-User Reviews and Ratings: Users can write reviews for books they have read and rate them based on their experience. This feature fosters a community of readers who can share their opinions and recommendations.
-Authentication: Secure user authentication system using Firebase Authentication, allowing users to create accounts, sign in, and manage their profiles.
+##Features
+# User Authentication: Users can sign up, log in, and log out securely to access the platform.
+# Book Search: Users can search for books using keywords, titles, authors, or categories.
+# Book Details: Detailed information about each book, including title, author, publisher, publication date, description, and cover image.
+# User Reviews: Users can read and write reviews for books, as well as rate them based on their experience.
+# Google Books Integration: BookRealm is integrated with the Google Books API to fetch real-time information about books.
 
 ## Built With
 # Frontend:
